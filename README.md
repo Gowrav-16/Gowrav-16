@@ -1,15 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Full+Stack+Developer;Hackathon+Finalist;Building+Real-World+Projects;Always+Learning+New+Tech" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gowrav-16&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gowrav-16&theme=tokyonight" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Gowrav</h1>
 
 <h3 align="center">🚀 AI & Full Stack Developer from India</h3>
@@ -75,14 +63,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gowrav-16&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -8,9 +8,9 @@
 
 ---
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="coding" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWt2eTVpMnYxNnR1aW14ZWhqN2lqYTRiY2I3d2NhbjNydm9xdTVsYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif">
 
-### 🚀 About Me
+### About Me
 
 * 🎓 CSE Student at **Rajarajeshwari College of Engineering**
 * 🧠 Passionate about **AI-driven applications** and **modern web experiences**
@@ -20,7 +20,7 @@
 
 <br>
 
-### ⚒️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,firebase,python,mongodb,git,github,vscode" />
@@ -28,14 +28,22 @@
 
 ---
 
-### 🌟 Highlights
+### GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Gowrav-16&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### Highlights
 
 ```yaml
-🏆 National-Level Hackathon Finalist
-🚀 Built AI-integrated Full Stack Applications
-💻 Developed Smart Interactive User Experiences
-🧩 Exploring Real-World Problem Solving Through Tech
-⚡ Consistently Learning & Experimenting With Modern Tools
+National-Level Hackathon Finalist
+Built AI-integrated Full Stack Applications
+Developed Smart Interactive User Experiences
+Exploring Real-World Problem Solving Through Tech
+Consistently Learning & Experimenting With Modern Tools
 ```
 
 ---

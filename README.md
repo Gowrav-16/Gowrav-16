@@ -6,9 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Gowrav-16&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gowrav-16&theme=tokyonight" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Gowrav</h1>
 

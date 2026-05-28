@@ -1,4 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Gowrav</h1>
+
+<h3 align="center">AI & Full Stack Developer | CSE Student @ RRCE</h3>
+
+<p align="center">
+Passionate about building real-world AI-powered web applications 🚀
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+* 🎓 CSE Student at Rajarajeshwari College of Engineering, Bengaluru
+* 🧠 Interested in AI, Full Stack Development & Problem Solving
+* 🏆 Hackathon Participant & National-Level Hackathon Finalist
+* 🚀 Building projects focused on AI integration and smart user experiences
+
+---
+
+### ⚡ Tech Stack
+
+* HTML
+* CSS
+* JavaScript
+* React.js
+* Next.js
+* Firebase
+* Streamlit
+* Python
+* Git & GitHub
+
+---
+
+### 🏆 Experience & Achievements
+
+* Hackathon Participant & AI/Web Developer
+* National-Level Hackathon Finalist
+* Built multiple AI-powered and full-stack web projects
+
+---
+
+### 📫 Connect With Me
+
+* LinkedIn: [www.linkedin.com/in/gowrav-rajanikanth-53749a411](http://www.linkedin.com/in/gowrav-rajanikanth-53749a411)
+* Email: [gowravgowrav1697@gmail.com](mailto:gowravgowrav1697@gmail.com)
 
 <!--
 **Gowrav-16/Gowrav-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
